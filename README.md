@@ -4,6 +4,8 @@
 
 Please use a compiler that supports the **C++20** standard.
 
+# Example usage
+
 ```c++
 // main.cpp
 

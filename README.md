@@ -1,5 +1,9 @@
 # cpp-httplib-example
 
+## Compilation
+
+Please use a compiler that supports the **C++20** standard.
+
 ```c++
 // main.cpp
 

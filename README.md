@@ -1,5 +1,21 @@
 # cpp-httplib-example
 
+# Project Description
+
+This project uses **`cpp-httplib`** and **`nlohmann::json`** libraries to implement both an HTTP server and client within the same program. The server and client run concurrently using multithreading. The client sends various HTTP requests to test the server's functionality.
+
+## Dependencies
+
+- **`cpp-httplib`**: A single-header C++ HTTP/HTTPS server and client library.
+
+  - GitHub repository: [https://github.com/yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib)
+  - Download the latest `httplib.h` file and include it in your project directory.
+
+- **`nlohmann::json`**: A modern C++ JSON library.
+
+  - GitHub repository: [https://github.com/nlohmann/json](https://github.com/nlohmann/json)
+  - Download the latest `json.hpp` file and include it in your project directory.
+
 ## Compilation
 
 Please use a compiler that supports the **C++20** standard.
